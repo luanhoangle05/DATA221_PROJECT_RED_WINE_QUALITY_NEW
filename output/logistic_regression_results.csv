@@ -1,2 +1,2 @@
 Model,Accuracy,Precision,Recall,F1-score,ROC-AUC
-Logistic Regression,<function accuracy_score at 0x000001654E2628C0>,<function precision_score at 0x000001654E2636D0>,<function recall_score at 0x000001654E2637F0>,<function f1_score at 0x000001654E2630A0>,0.7233593020901727
+Logistic Regression,0.41911764705882354,0.5503115028985843,0.41911764705882354,0.4621127656745618,0.7233593020901727
