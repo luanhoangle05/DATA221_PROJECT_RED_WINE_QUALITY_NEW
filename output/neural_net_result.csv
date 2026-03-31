@@ -1,2 +1,2 @@
-Model,Accuracy Score,Precision Score,Recall Score,F1-Score,ROC-AUC: 
+Model,Accuracy,Precision,Recall,F1-Score,ROC-AUC
 Neural Net,0.5808823529411765,0.5577665244531702,0.5808823529411765,0.5679219028412024,0.7496487450239009
